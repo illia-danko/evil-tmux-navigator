@@ -2,7 +2,7 @@
 
 Warning:
 
-![](http://cl.ly/VDhe/no-idea-what-im-doing-dog.jpg)
+> This project has been archived in favor of [evil-terminal-multiplexer](https://github.com/illia-danko/evil-terminal-multiplexer).
 
 --------
 
